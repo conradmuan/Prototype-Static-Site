@@ -2,6 +2,7 @@
 title: This is a filename
 author: Conrad Muan
 date: January 27, 2018
+filename: /blog/:title/index.html
 categories:
     - hey
     - sup
